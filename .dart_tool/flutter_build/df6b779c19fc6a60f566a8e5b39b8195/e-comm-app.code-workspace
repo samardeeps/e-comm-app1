@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../OneDrive/Documents/GitHub/e-comm-app"
+		},
+		{
+			"path": "../../../ios"
+		},
+		{
+			"path": "../../../lib"
+		},
+		{
+			"path": "../../../linux"
+		},
+		{
+			"path": "../../../macos"
+		},
+		{
+			"path": "../../../test"
+		},
+		{
+			"path": "../../../web"
+		},
+		{
+			"path": "../../../windows"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../.idea"
+		},
+		{
+			"path": "../../../android"
+		},
+		{
+			"path": "../../../assets"
+		},
+		{
+			"path": "../../../build"
+		}
+	],
+	"settings": {}
+}

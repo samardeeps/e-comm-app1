@@ -1,0 +1,4 @@
+# Ignore build files and directories
+build/
+*.apk
+*.so
